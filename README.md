@@ -6,6 +6,13 @@
 - 📫 How to reach me: dawid.makalowski@wp.pl
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: When I was a kid a tortoise escaped from our garden. They are faster than we think 🐢
+- 🔎 Interests:
+  -🏹 Archer
+  -🎮 Gamer
+  -🌌 Science enthusiast
+  -🎧 Music Listener
+  -🏍 Motorcycle Rider
+
 
 
 <!--
